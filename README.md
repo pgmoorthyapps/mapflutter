@@ -3,7 +3,16 @@
 This project is a Flutter-based application designed for user authentication and profile management. It includes functionality for email/mobile login, OTP verification, profile data submission, and storage in local storage (using `SharedPreferences`).
 
 
-This includes the installation commands (`flutter pub get`, `flutter run`, and `flutter build apk`) followed by a description of the features and project structure.
+This section includes the commands required to install dependencies, run the application, and build the APK.
+1. **Install dependencies:**
+   ```bash
+   flutter pub get
+2. **Run the application:**
+    ```bash
+    flutter run
+2. **Build the APK:**
+    ```bash
+    flutter build apk
 
 ## Features
 - **Email and Mobile Login:** Users can log in using either email or mobile number.

@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
     routes: [
       GoRoute(
         path: '/',
-        name: '',
+        name: 'login',
         builder: (context, state) => LoginPage(),
       ),
       GoRoute(

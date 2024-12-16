@@ -173,7 +173,7 @@ class _ProfilePageState extends State<ProfilePage> {
                 TextBoxWidget(
                   labelText: 'Address',
                   control: addressCtrl,
-                  prefixIcon: const Icon(Icons.location_on),
+                  // prefixIcon: const Icon(Icons.location_on),
                   validator: validateAddress,
                   lines: 5,
                 ),
